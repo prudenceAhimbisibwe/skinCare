@@ -1,0 +1,222 @@
+.nav ul li{
+    display: inline-flex;
+    padding: 4%;
+}
+.home{
+    margin-left: 60%;
+    margin-top: -10%;
+    font-size: 20px;
+}
+.nav{
+    background-color:#566F6B
+}
+span{
+    color: white;
+}
+.logo{
+    margin: 5%;
+    margin-bottom: -2%;
+    color: white;
+}
+.mask{
+    margin-left: 20px;
+    margin: 8%;
+}
+.mask h1{
+    font-size: 40px;
+    color:  #D5D5D5;
+}
+.mask p{
+    font-size: 20px;
+    color:  #D5D5D5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bttn input{
+    padding: 5%;
+    border-radius: 30px;
+    padding: 10px;
+    border: 2% solid;
+    border-style: none;
+    width: 150px;  
+}
+.bttn{
+    display: inline-flex;
+}
+.btn1{
+    padding: 20px;
+}
+.btn2{
+    padding: 20px;
+}
+
+
+.img{
+    margin-left: 65%;
+    margin-top: -28%;
+}
+.ingredient h1{
+    margin-left: 40%;
+    font-size: 30px;
+    color: #D6D6D6;
+}
+.face{
+    margin-left: 29%;
+    margin-top: -4%;
+}
+.content{
+    margin-top: -30%;
+}
+.carbon{
+    margin-left: 60%;
+    margin-top: -15%;
+} 
+.oil{
+    margin-left: 60%;
+} 
+.cotton{
+    margin-left: 12%;
+    margin-top:5%;
+} 
+.cotton h3{
+    margin-left: 15%;
+}
+.serum{
+    margin-left: 12%;
+}
+.serum h3{
+    margin-left: 15%;
+}
+.condition{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.condition h6{
+    font-size: 16px;
+}
+.condition p{
+    color:#D6D6D6;
+}
+.bag{
+    background-color: #8BBEB7;
+    width: 100%;
+    height: 200px;
+    margin-top: 5%;
+   
+}
+.offer{
+    margin-left: 50%;
+
+}
+.button button{
+    border: 2px solid ;
+    width: 150px;
+    border-radius: 30px;
+    padding: 10px;
+    border-style: none; 
+}
+.bag1{
+    margin-left: 10%;
+    margin-top: -10%;
+}
+.product{
+    color: #D6D6D6;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 30px;
+}
+.product1{
+    display: flex;
+    text-align: center;
+    margin-left: 9%;
+    text-decoration-color: #D3DADA;
+
+}
+.lotion1{
+    padding: 2px;
+    margin: 20px;
+}
+.lotion1 img{
+    background-color: #F1F3F2;
+
+}
+.lotion2{
+    padding: 2px;
+    margin: 20px;
+}
+.lotion2 img{
+    background-color: #F1F3F2;
+}
+.lotion3{
+    padding: 2px;
+    margin: 20px;
+}
+.lotion3 img{
+    background-color: #F1F3F2;
+}
+.love{
+    margin-left: 35%;
+    color:#D6D6D6 ;
+    font-size: 30px;
+}
+.img1 img{
+    border-radius: 30px;
+    border: 2px solid;
+    border-color: #D5D5D5;
+    margin-left: 15%;
+    background-color: #566F6B;
+}
+.img1 h5{
+    margin-left: 15%;
+}
+.img1 h6{
+    margin-left: 15%;
+    color: #D5D5D5 ;
+}
+.img1 p{
+    color: #D5D5D5;
+
+}
+.img1{
+    margin-left: 10%;
+}
+.img2{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+.img2 h5{
+    margin-left: 15%;
+}
+.img2 h6{
+    margin-left: 15%;
+    color: #D5D5D5 ;
+}
+.img2 p{
+    color: #D5D5D5;
+}
+.img2 img{
+    border-radius: 30px;
+    border: 2px solid;
+    border-color: #D5D5D5;
+    margin-left: 15%;
+    background-color: #566F6B;
+}
+.footer{
+    display: inline-flex;
+    background-color: #E7E7E7;
+    width: 100%;
+    height: fit-content;
+      
+}
+.log1{
+    margin: 9%;
+}
+.footer1{
+    margin:9%;
+}
+.footer2{
+    margin: 9%;
+}
+.footer3{
+    margin: 9%;
+}
+
